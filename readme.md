@@ -74,11 +74,7 @@ Response :
   "total_distance": 79.13
 }
 3. PUT  /trips/{trip_id}/request
-Please note that,for securoty reasons,the access token for this has been emailed to the professor. This would only work if the access token 
-is specified in the function GenerateRequestId (GenerateRequestId.Go file ).
-go to the function and 
-change the value of access token 
-accesstoken := "abcdef1g"
+
 
 
 Response : 
